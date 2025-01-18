@@ -1,0 +1,19 @@
+PROJECTS
+• An intelligent Q/A chatbot:
+Python with NLTK for tokenization & lemmatization | Scikit-learn. Designed to provide accurate and context-aware
+responses. This project strengthened my expertise in natural language processing and Al.
+
+• Sales Dashboard Analytics with Power BI:
+Offering deep insights into sales performance to support strategic decisions and optimize business growth.
+• Mall Customers Segmentation:
+
+Identifying distinct customer profiles through demographic and purchasing behaviour analysis. Developed
+actionable segments for targeted marketing, enhancing customer satisfaction and boosting sales.
+
+• Image classification project:
+Mastering image processing fundamentals and building a classifier using HOG and SVM. Evaluated model performance
+with advanced metrics, deepening my expertise in computer vision and machine learning.
+
+• Facial Detection Emotion:
+Leveraging AI, machine learning and deep learning techniques with Keras, TensorFlow, and Python. Integrated
+advanced computer vision methods to enhance emotion classification accuracy.
