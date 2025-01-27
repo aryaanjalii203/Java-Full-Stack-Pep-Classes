@@ -1,0 +1,9 @@
+<hibernate-mapping>
+<class name="hibernateClasses.HibernateDemo" table="employee">
+<id name="id" column="id">
+<generator class="increment"/>
+</id>
+<property name="fname" column="First_name"/>
+<property name="lname" column="Last_Name"/>
+</class>
+</hibernate-mapping>

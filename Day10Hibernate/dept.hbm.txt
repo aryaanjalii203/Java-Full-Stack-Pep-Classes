@@ -1,0 +1,9 @@
+<hibernate-mapping>
+<class name="hibernateClasses.Department" table="dept">
+<id name="did" column="did">
+<generator class="increment"/>
+</id>
+<property name="dname" column="Dname"/>
+<property name="location" column="Location"/>
+</class>
+</hibernate-mapping>
