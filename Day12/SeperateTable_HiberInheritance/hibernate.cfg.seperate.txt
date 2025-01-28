@@ -1,0 +1,15 @@
+<hibernate-configuration>
+<session-factory>
+<property name="hibernate.hbm2ddl.auto">update</property>
+<property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
+<property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+<property name="connection.url">jdbc:mysql://localhost:3306/SeperateTable</property>
+<property name="connection.username">root</property>
+<property name="connection.password">Focus#203</property>
+<property name="hibernate.show_sql">true</property>
+<property name="hibernate.format_sql">true</property>
+<mapping class="Seperate_Inheritance.Employee"/>
+<mapping class="Seperate_Inheritance.RegularEmployee"/>
+<mapping class="Seperate_Inheritance.ContractEmployee"/>
+</session-factory>
+</hibernate-configuration>
